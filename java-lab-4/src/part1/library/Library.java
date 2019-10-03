@@ -1,6 +1,5 @@
 package part1.library;
 
-import part1.Media;
 import part1.media.Media;
 
 import java.util.ArrayList;

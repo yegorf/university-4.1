@@ -1,7 +1,5 @@
 package part1.media;
 
-import part1.Media;
-
 public class Book extends Media {
     private int number;
 
