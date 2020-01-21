@@ -5,8 +5,6 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) {
-
-        //Objects creation and initialization
         Device device = new Device();
         device.setManufacturer("LG");
         device.setSerialNumber("645937");

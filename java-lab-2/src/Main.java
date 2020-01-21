@@ -49,7 +49,7 @@ public class Main {
             System.out.println("Stack overflow!");
         }
 
-        //Classic stack print
+        System.out.println("Classic stack print");
         try {
             while (true) {
                 System.out.println(classicStack.pop().getId());
@@ -73,7 +73,7 @@ public class Main {
             System.out.println("Stack overflow!");
         }
 
-        //Unusual stack print
+        System.out.println("Unusual stack print");
         try {
             while (true) {
                 System.out.println(unusualStack.pop().getId());
